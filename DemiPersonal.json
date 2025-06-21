@@ -21,6 +21,12 @@
         "TEXT_MUTED": [
             "#66FF92"
         ],
+        "TEXT_LINK": [
+            "#A6FFC9"
+        ],
+        "TEXT_DANGER": [
+            "#00992A"
+        ],
         "INTERACTIVE_NORMAL": [
             "#7A00B3"
         ],
