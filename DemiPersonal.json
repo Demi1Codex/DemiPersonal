@@ -227,5 +227,19 @@
         "NotoSans-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
         "SourceCodePro-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf"
     },
+    
+    "background": {
+        "blur": 0.5,
+        "url": "https://i.postimg.cc/D0drV1qC/fondo.png",
+        "alpha": 0.7
+        },
+        "plus":{
+       "version":"0",
+       "mentionLineColor": "#7800ff",
+       "iconpack":"rosiecord-plumpy"
+       
+  },
+  
     "spec": 2
 }
+
