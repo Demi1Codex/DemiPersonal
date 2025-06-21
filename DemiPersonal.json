@@ -226,8 +226,7 @@
     },
     "plus": {
         "version": "0",
-        "mentionLineColor": "#9B00FF20",
-        "iconpack": "rosiecord-plumpy"
+        "mentionLineColor": "#00FF6E"
     },
     "spec": 2
 }
