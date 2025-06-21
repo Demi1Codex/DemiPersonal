@@ -128,41 +128,41 @@
             "#d5ceef"
         ],
         "CARD_PRIMARY_BG": [
-            "#1E1A33"
+            "#1A332A"
         ],
         "CARD_SECONDARY_BG": [
-            "#221E3B"
+            "#1E3B2D"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#4E4058"
+            "#40584F"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#141122"
+            "#213F36"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#4E4058"
+            "#40584E"
         ],
         "BORDER_FAINT": [
-            "#4E4058"
+            "#40584C"
         ],
         "BG_BACKDROP": [
-            "#04010173"
+            "#09231373"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#E3C5C5",
-        "PRIMARY_100": "#E4D4CC",
-        "PRIMARY_200": "#F4EAE5",
-        "PRIMARY_230": "#F4EAE5",
+        "PRIMARY_500": "#C5E3D8",
+        "PRIMARY_100": "#C8FFE3",
+        "PRIMARY_200": "#BAF7CC",
+        "PRIMARY_230": "#80FFAD",
         "PRIMARY_300": "#735682",
-        "PRIMARY_360": "#00FF9D",
+        "PRIMARY_360": "#5CC29B",
         "PRIMARY_400": "#735682",
-        "PRIMARY_600": "#281f2b",
-        "PRIMARY_630": "#231b27",
+        "PRIMARY_600": "#1F2B29",
+        "PRIMARY_630": "#1B2F28",
         "PRIMARY_645": "#00FF9D",
-        "PRIMARY_660": "#231b27",
+        "PRIMARY_660": "#1B2723",
         "PRIMARY_700": "#312438",
-        "PRIMARY_800": "#231b27",
+        "PRIMARY_800": "#263E33",
         "BRAND_260": "#C2A8A7",
         "BRAND_360": "#F4EAE5",
         "BRAND_500": "#4E4058",
@@ -214,48 +214,48 @@
     "GREEN_830": "#30FF7C",
     "GREEN_860": "#30FF7C",
     "GREEN_900": "#30FF7C",
-    "GUILD_BOOSTING_PINK": "#eb6f92",   
+    "GUILD_BOOSTING_PINK": "#B56FEB",   
     "GUILD_BOOSTING_PURPLE": "#c4a7e7",
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c4a7e7",
-    "RED_260": "#eb6f92",
-    "RED_300": "#eb6f92",
-    "RED_330": "#eb6f92",
-    "RED_345": "#eb6f92",
-    "RED_360": "#eb6f92",
-    "RED_430": "#eb6f92",
-    "RED_460": "#eb6f92",
-    "RED_500": "#eb6f92",
-    "RED_530": "#eb6f92",
-    "RED_560": "#eb6f92",
-    "RED_600": "#eb6f92",
-    "RED_630": "#eb6f92",
-    "RED_660": "#eb6f92",
-    "RED_700": "#eb6f92",
-    "YELLOW_100": "#f6c177",
-    "YELLOW_130": "#f6c177",
-    "YELLOW_160": "#f6c177",
-    "YELLOW_200": "#f6c177",
-    "YELLOW_230": "#f6c177",
-    "YELLOW_260": "#f6c177",
-    "YELLOW_330": "#f6c177",
-    "YELLOW_345": "#f6c177",
-    "YELLOW_360": "#f6c177",
-    "YELLOW_400": "#f6c177",
-    "YELLOW_430": "#f6c177",
-    "YELLOW_460": "#f6c177",
-    "YELLOW_500": "#f6c177",
-    "YELLOW_530": "#f6c177",
-    "YELLOW_560": "#f6c177",
+    "RED_260": "#B56FEB",
+    "RED_300": "#B56FEB",
+    "RED_330": "#B56FEB",
+    "RED_345": "#B56FEB",
+    "RED_360": "#B56FEB",
+    "RED_430": "#B56FEB",
+    "RED_460": "#B56FEB",
+    "RED_500": "#B56FEB",
+    "RED_530": "#B56FEB",
+    "RED_560": "#B56FEB",
+    "RED_600": "#B56FEB",
+    "RED_630": "#B56FEB",
+    "RED_660": "#B56FEB",
+    "RED_700": "#B56FEB",
+    "YELLOW_100": "#77F6A6",
+    "YELLOW_130": "#77F6A6",
+    "YELLOW_160": "#77F6A6",
+    "YELLOW_200": "#77F6A6",
+    "YELLOW_230": "#77F6A6",
+    "YELLOW_260": "#77F6A6",
+    "YELLOW_330": "#77F6A6",
+    "YELLOW_345": "#77F6A6",
+    "YELLOW_360": "#77F6A6",
+    "YELLOW_400": "#77F6A6",
+    "YELLOW_430": "#77F6A6",
+    "YELLOW_460": "#77F6A6",
+    "YELLOW_500": "#77F6A6",
+    "YELLOW_530": "#77F6A6",
+    "YELLOW_560": "#77F6A6",
     "YELLOW_600": "#EFDFD7",
-    "YELLOW_630": "#f6c177",
-    "YELLOW_660": "#f6c177",
-    "YELLOW_700": "#f6c177",
-    "YELLOW_730": "#f6c177",
-    "YELLOW_760": "#f6c177",
-    "YELLOW_800": "#f6c177",
-    "YELLOW_830": "#f6c177",
-    "YELLOW_860": "#f6c177",
-    "YELLOW_900": "#f6c177"
+    "YELLOW_630": "#77F6A6",
+    "YELLOW_660": "#77F6A6",
+    "YELLOW_700": "#77F6A6",
+    "YELLOW_730": "#77F6A6",
+    "YELLOW_760": "#77F6A6",
+    "YELLOW_800": "#77F6A6",
+    "YELLOW_830": "#77F6A6",
+    "YELLOW_860": "#77F6A6",
+    "YELLOW_900": "#77F6A6"
     },
     
     "background": {
