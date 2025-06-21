@@ -225,16 +225,15 @@
 },
     
     "background": {
-},      "blur": 0.5,
-        "url": "https://github.com/Demi1Codex/DemiPersonal/blob/f5174c87a158aec57b8cbeb8d2fa0cacae717f0f/fondo.jpg?raw=true",
-    "background": {7
         "blur": 0.5,
         "url": "https://github.com/Demi1Codex/DemiPersonal/blob/f5174c87a158aec57b8cbeb8d2fa0cacae717f0f/fondo.jpg?raw=true",
-        "alpha": 0.7,
-        },ntionLineColor": "#00FF9D20",
-        "plus":{":"rosiecord-plumpy"
+        "alpha": 0.7
+        },
+        "plus":{
        "version":"0",
        "mentionLineColor": "#00FF9D20",
        "iconpack":"rosiecord-plumpy"
        
-  },    "spec": 2  }
+  },
+    "spec": 2
+  }
