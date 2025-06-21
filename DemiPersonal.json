@@ -28,19 +28,19 @@
             "#00992A"
         ],
         "INTERACTIVE_NORMAL": [
-            "#7A00B3"
+            "#00B3AA"
         ],
         "INTERACTIVE_HOVER": [
-            "#C266FF"
+            "#8766FF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#9B00FF"
+            "#00BBFF"
         ],
         "INTERACTIVE_MUTED": [
-            "#D1A6FF"
+            "#B6A6FF"
         ],
         "BACKGROUND_PRIMARY": [
-            "#9B00FF"
+            "#004CFF"
         ],
         "BACKGROUND_SECONDARY": [
             "#C266FF"
