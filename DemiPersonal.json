@@ -97,35 +97,35 @@
             "#DAC0B3"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#00FF9D"
+            "#7B00FF"
         ],
         
         "CHANNELS_DEFAULT": [
             "#00FF9D"
         ],
         "TEXT_LINK": [
-            "#C2A8A7"
+            "#8A51BC"
         ],
         "TEXT_DANGER": [
-            "#5A4565"
+            "#0C0077"
         ],
         "KEYBOARD": [
             "#312438"
         ],
         "CHANNEL_ICON": [
-            "#43374C"
+            "#180065"
         ],
         "CHAT_BACKGROUND": [
-            "#312438"
+            "#180084"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#31223b"
+            "#22223B"
         ],
         "REDESIGN_CHANNEL_CATAGORY_NAME_TEXT": [
-            "#00FF9D"
+            "#7700FF"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#d5ceef"
+            "#301B6F"
         ],
         "CARD_PRIMARY_BG": [
             "#1A332A"
