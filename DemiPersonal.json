@@ -43,7 +43,7 @@
             "#004CFF"
         ],
         "BACKGROUND_SECONDARY": [
-            "#C266FF"
+            "#66FFC2"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#31223b"
@@ -100,10 +100,10 @@
             "#DAC0B3"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#C266FF"
+            "#66FFCC"
         ],
         "CHANNELS_DEFAULT": [
-            "#9B00FF"
+            "#0099FF"
         ],
         "TEXT_LINK": [
             "#00FF42"
