@@ -101,7 +101,7 @@
         ],
         
         "CHANNELS_DEFAULT": [
-            "#00FF9D"
+            "#0094AE"
         ],
         "TEXT_LINK": [
             "#8A51BC"
@@ -154,9 +154,9 @@
         "PRIMARY_100": "#C8FFE3",
         "PRIMARY_200": "#BAF7CC",
         "PRIMARY_230": "#80FFAD",
-        "PRIMARY_300": "#735682",
+        "PRIMARY_300": "#2F287E",
         "PRIMARY_360": "#5CC29B",
-        "PRIMARY_400": "#735682",
+        "PRIMARY_400": "#455885",
         "PRIMARY_600": "#1F2B29",
         "PRIMARY_630": "#1B2F28",
         "PRIMARY_645": "#00FF9D",
@@ -165,14 +165,14 @@
         "PRIMARY_800": "#263E33",
         "BRAND_260": "#C2A8A7",
         "BRAND_360": "#F4EAE5",
-        "BRAND_500": "#4E4058",
-        "BRAND_560": "#735682",
+        "BRAND_500": "#3D614F",
+        "BRAND_560": "#45846F",
         "YELLOW_300": "#D2B7AA",
         "GREEN_600": "#EFDFD7",
         "RED_400": "#BDA2A2",
         "WHITE_500": "#EFDFD7",
         "PLUM_1": "#00FF9D",
-    "PLUM_10": "#604F6C",
+    "PLUM_10": "#4F6C60",
     "PLUM_11": "#26233a",
     "PLUM_13": "#4E4058",
     "PLUM_15": "#26233a",
@@ -188,7 +188,7 @@
     "PLUM_3": "#f5ded7",
     "PLUM_4": "#31748f50",
     "PLUM_6": "#EEE9FE",
-    "PLUM_9": "#00FF9D",
+    "PLUM_9": "#00E5FF",
     "GREEN_100": "#30FF7C",
     "GREEN_130": "#30FF7C",
     "GREEN_160": "#30FF7C",
