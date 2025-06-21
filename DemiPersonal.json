@@ -34,7 +34,7 @@
             "#20ffb3ff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#13A10E"
+            "#009965ff"
         ],
         "INTERACTIVE_MUTED": [
             "#20ffb3ff"
@@ -49,7 +49,7 @@
             "#000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#13A10E"
+            "#009965ff"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
@@ -88,7 +88,7 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#13A10E30"
+            "#009965ff"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
             "#000000"
@@ -118,22 +118,22 @@
             "#000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#13A10E"
+            "#009965ff"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#000000"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#13A10E"
+            "#009965ff"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#13A10E"
+            "#009965ff"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#20ffb3ff"
         ],
         "CHANNELS_DEFAULT": [
-            "#13A10E"
+            "#009965ff"
         ],
         "TEXT_LINK": [
             "#13A10E"
