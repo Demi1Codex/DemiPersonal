@@ -124,10 +124,10 @@
             "#22223B"
         ],
         "REDESIGN_CHANNEL_CATAGORY_NAME_TEXT": [
-            "#C266FF"
+            "#6685FF"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#D1A6FF"
+            "#A6FFB9"
         ],
         "CARD_PRIMARY_BG": [
             "#1A332A"
@@ -155,15 +155,15 @@
         "PRIMARY_500": "#00FF42",
         "PRIMARY_100": "#D1A6FF",
         "PRIMARY_200": "#66FF92",
-        "PRIMARY_230": "#C266FF",
+        "PRIMARY_230": "#6669FF",
         "PRIMARY_300": "#A6FFC9",
-        "PRIMARY_360": "#9B00FF",
+        "PRIMARY_360": "#3300FF",
         "PRIMARY_400": "#66FF92",
-        "PRIMARY_600": "#7A00B3",
+        "PRIMARY_600": "#00B354",
         "PRIMARY_630": "#00992A",
-        "PRIMARY_645": "#9B00FF",
+        "PRIMARY_645": "#00FF73",
         "PRIMARY_660": "#00FF42",
-        "PRIMARY_700": "#7A00B3",
+        "PRIMARY_700": "#00B3A7",
         "PRIMARY_800": "#00FF42",
 
         "BRAND_260": "#C266FF",
