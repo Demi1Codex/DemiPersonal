@@ -17,10 +17,10 @@
             "#00D970"
         ],
         "TEXT_NORMAL": [
-            "#C266FF"
+            "#00FF0C"
         ],
         "TEXT_MUTED": [
-            "#C266FF"
+            "#00FF0C"
         ],
         "INTERACTIVE_NORMAL": [
             "#25755B"
@@ -104,10 +104,10 @@
             "#0094AE"
         ],
         "TEXT_LINK": [
-            "#C266FF"
+            "#00FF0C"
         ],
         "TEXT_DANGER": [
-            "#C266FF"
+            "#00FF0C"
         ],
         "KEYBOARD": [
             "#312438"
@@ -122,10 +122,10 @@
             "#22223B"
         ],
         "REDESIGN_CHANNEL_CATAGORY_NAME_TEXT": [
-            "#7700FF"
+            "#00FF0C"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#301B6F"
+            "#00FF0C"
         ],
         "CARD_PRIMARY_BG": [
             "#1A332A"
@@ -164,34 +164,31 @@
         "PRIMARY_700": "#009B5B",
         "PRIMARY_800": "#009B5B",
 
-    "BRAND_260": "#9B00FF",
-    "BRAND_360": "#C580FF",
-    "BRAND_500": "#9B00FF",
-    "BRAND_560": "#7A00CC",
+    "BRAND_260": "#00FF0C",
+    "BRAND_360": "#00FF0C",
+    "BRAND_500": "#00FF0C",
+    "BRAND_560": "#00FF0C",
 
-    "YELLOW_300": "#B3FFD9",
-    "GREEN_600": "#00FF7C",
-    "RED_400": "#9B00FF",
-    "WHITE_500": "#F3FFF9",
+    "RED_400": "#00FF0C",
 
-    "PLUM_1": "#9B00FF",
-    "PLUM_10": "#C580FF",
-    "PLUM_11": "#B366FF",
-    "PLUM_13": "#B366FF",
-    "PLUM_15": "#A64DFF",
-    "PLUM_16": "#C580FF",
-    "PLUM_17": "#7A00CC",
-    "PLUM_18": "#B366FF",
-    "PLUM_19": "#C580FF",
-    "PLUM_20": "#7A00CC",
-    "PLUM_21": "#9B00FF",
-    "PLUM_22": "#B366FF",
-    "PLUM_24": "#C580FF",
-    "PLUM_25": "#9B00FF",
-    "PLUM_3": "#E0B3FF",
-    "PLUM_4": "#C580FF50",
-    "PLUM_6": "#E0B3FF",
-    "PLUM_9": "#A366FF",
+    "PLUM_1": "#00FF0C",
+    "PLUM_10": "#00FF0C",
+    "PLUM_11": "#00FF0C",
+    "PLUM_13": "#00FF0C",
+    "PLUM_15": "#00FF0C",
+    "PLUM_16": "#00FF0C",
+    "PLUM_17": "#00FF0C",
+    "PLUM_18": "#00FF0C",
+    "PLUM_19": "#00FF0C",
+    "PLUM_20": "#00FF0C",
+    "PLUM_21": "#00FF0C",
+    "PLUM_22": "#00FF0C",
+    "PLUM_24": "#00FF0C",
+    "PLUM_25": "#00FF0C",
+    "PLUM_3": "#00FF0C",
+    "PLUM_4": "#00FF0C50",
+    "PLUM_6": "#00FF0C",
+    "PLUM_9": "#00FF0C",
 
     "GREEN_100": "#00FF7C",
     "GREEN_130": "#00FF7C",
@@ -228,15 +225,16 @@
 },
     
     "background": {
+},      "blur": 0.5,
+        "url": "https://github.com/Demi1Codex/DemiPersonal/blob/f5174c87a158aec57b8cbeb8d2fa0cacae717f0f/fondo.jpg?raw=true",
+    "background": {7
         "blur": 0.5,
         "url": "https://github.com/Demi1Codex/DemiPersonal/blob/f5174c87a158aec57b8cbeb8d2fa0cacae717f0f/fondo.jpg?raw=true",
-        "alpha": 0.7
-        },
-        "plus":{
+        "alpha": 0.7,
+        },ntionLineColor": "#00FF9D20",
+        "plus":{":"rosiecord-plumpy"
        "version":"0",
        "mentionLineColor": "#00FF9D20",
        "iconpack":"rosiecord-plumpy"
        
-  },
-    "spec": 2
-  }
+  },    "spec": 2  }
