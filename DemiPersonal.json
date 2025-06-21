@@ -10,16 +10,16 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#9B00FF"
+            "#00FF80"
         ],
         "HEADER_SECONDARY": [
-            "#C266FF"
+            "#66FFBA"
         ],
         "TEXT_NORMAL": [
-            "#9B00FF"
+            "#00FF42"
         ],
         "TEXT_MUTED": [
-            "#C266FF"
+            "#66FF92"
         ],
         "INTERACTIVE_NORMAL": [
             "#7A00B3"
@@ -100,10 +100,10 @@
             "#9B00FF"
         ],
         "TEXT_LINK": [
-            "#D1A6FF"
+            "#00FF42"
         ],
         "TEXT_DANGER": [
-            "#7A00B3"
+            "#00FF42"
         ],
         "KEYBOARD": [
             "#312438"
