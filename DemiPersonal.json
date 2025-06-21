@@ -1,44 +1,44 @@
 {
-    "name": "Ukiyo",
-    "description": "Living in the moment",
+    "name": "DemiPersonal",
+    "description": "Original theme made by Demi1Codex",
+    "version": "2",
     "authors": [
-  
         {
-            "name": "ft.vodka",
-            "id": "1068030255455015013"
+            "name": "Demi1Codex",
+            "id": "123673168"
           
         }
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#a297c3"
+            "#00FF9D"
         ],
         "HEADER_SECONDARY": [
-            "#7c6ea7"
+            "#00D970"
         ],
         "TEXT_NORMAL": [
-            "#d5ceef"
+            "#A600FF"
         ],
         "TEXT_MUTED": [
-            "#625682"
+            "#43037E"
         ],
         "INTERACTIVE_NORMAL": [
-            "#625682"
+            "#25755B"
         ],
         "INTERACTIVE_HOVER": [
-            "#625682"
+            "#2F855E"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#7c638e"
+            "#2E9970"
         ],
         "INTERACTIVE_MUTED": [
-            "#8A7675"
+            "#2EB27D"
         ],
         "BACKGROUND_PRIMARY": [
-            "#0e0d17"
+            "#00FF9D"
         ],
         "BACKGROUND_SECONDARY": [
-            "#2F2734"
+            "#00C94A"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#31223b"
@@ -97,11 +97,11 @@
             "#DAC0B3"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#a297c3"
+            "#00FF9D"
         ],
         
         "CHANNELS_DEFAULT": [
-            "#a297c3"
+            "#00FF9D"
         ],
         "TEXT_LINK": [
             "#C2A8A7"
@@ -122,7 +122,7 @@
             "#31223b"
         ],
         "REDESIGN_CHANNEL_CATAGORY_NAME_TEXT": [
-            "#a297c3"
+            "#00FF9D"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
             "#d5ceef"
@@ -155,11 +155,11 @@
         "PRIMARY_200": "#F4EAE5",
         "PRIMARY_230": "#F4EAE5",
         "PRIMARY_300": "#735682",
-        "PRIMARY_360": "#a297c3",
+        "PRIMARY_360": "#00FF9D",
         "PRIMARY_400": "#735682",
         "PRIMARY_600": "#281f2b",
         "PRIMARY_630": "#231b27",
-        "PRIMARY_645": "#a297c3",
+        "PRIMARY_645": "#00FF9D",
         "PRIMARY_660": "#231b27",
         "PRIMARY_700": "#312438",
         "PRIMARY_800": "#231b27",
@@ -171,7 +171,7 @@
         "GREEN_600": "#EFDFD7",
         "RED_400": "#BDA2A2",
         "WHITE_500": "#EFDFD7",
-        "PLUM_1": "#a297c3",
+        "PLUM_1": "#00FF9D",
     "PLUM_10": "#604F6C",
     "PLUM_11": "#26233a",
     "PLUM_13": "#4E4058",
@@ -184,36 +184,36 @@
     "PLUM_21": "#191724",
     "PLUM_22": "#26233a",
     "PLUM_24": "#201C37",
-    "PLUM_25": "#a297c3",
+    "PLUM_25": "#00FF9D",
     "PLUM_3": "#f5ded7",
     "PLUM_4": "#31748f50",
     "PLUM_6": "#EEE9FE",
-    "PLUM_9": "#a297c3",
-    "GREEN_100": "#9ccfd8",
-    "GREEN_130": "#9ccfd8",
-    "GREEN_160": "#9ccfd8",
-    "GREEN_200": "#9ccfd8",
-    "GREEN_230": "#9ccfd8",
-    "GREEN_260": "#9ccfd8",
-    "GREEN_300": "#9ccfd8",
-    "GREEN_330": "#9ccfd8",
-    "GREEN_345": "#9ccfd8",
+    "PLUM_9": "#00FF9D",
+    "GREEN_100": "#30FF7C",
+    "GREEN_130": "#30FF7C",
+    "GREEN_160": "#30FF7C",
+    "GREEN_200": "#30FF7C",
+    "GREEN_230": "#30FF7C",
+    "GREEN_260": "#30FF7C",
+    "GREEN_300": "#30FF7C",
+    "GREEN_330": "#30FF7C",
+    "GREEN_345": "#30FF7C",
     "GREEN_360": "#74646d",
-    "GREEN_400": "#9ccfd8",
-    "GREEN_430": "#9ccfd8",
-    "GREEN_460": "#9ccfd8",
-    "GREEN_500": "#9ccfd8",
-    "GREEN_530": "#9ccfd8",
-    "GREEN_560": "#9ccfd8",
-    "GREEN_630": "#9ccfd8",
-    "GREEN_660": "#9ccfd8",
-    "GREEN_700": "#9ccfd8",
-    "GREEN_730": "#9ccfd8",
-    "GREEN_760": "#9ccfd8",
-    "GREEN_800": "#9ccfd8",
-    "GREEN_830": "#9ccfd8",
-    "GREEN_860": "#9ccfd8",
-    "GREEN_900": "#9ccfd8",
+    "GREEN_400": "#30FF7C",
+    "GREEN_430": "#30FF7C",
+    "GREEN_460": "#30FF7C",
+    "GREEN_500": "#30FF7C",
+    "GREEN_530": "#30FF7C",
+    "GREEN_560": "#30FF7C",
+    "GREEN_630": "#30FF7C",
+    "GREEN_660": "#30FF7C",
+    "GREEN_700": "#30FF7C",
+    "GREEN_730": "#30FF7C",
+    "GREEN_760": "#30FF7C",
+    "GREEN_800": "#30FF7C",
+    "GREEN_830": "#30FF7C",
+    "GREEN_860": "#30FF7C",
+    "GREEN_900": "#30FF7C",
     "GUILD_BOOSTING_PINK": "#eb6f92",   
     "GUILD_BOOSTING_PURPLE": "#c4a7e7",
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c4a7e7",
@@ -257,27 +257,6 @@
     "YELLOW_860": "#f6c177",
     "YELLOW_900": "#f6c177"
     },
-  
-  "fonts":{
-    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
-    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
-    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
-    "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
-     },
     
     "background": {
         "blur": 0.5,
@@ -286,7 +265,7 @@
         },
         "plus":{
        "version":"0",
-       "mentionLineColor": "#a297c320",
+       "mentionLineColor": "#00FF9D20",
        "iconpack":"rosiecord-plumpy"
        
   },
